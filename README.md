@@ -45,17 +45,27 @@ Input (128×128×3)
 ## 📁 Repository Structure
 
 ```
-├── Deep_learning_midterm_final.ipynb   # Main notebook
-├── labels-map-proj-v3.txt              # Raw label file
-├── landmarks_map-proj-v3_classmap.csv  # Generated CSV with filenames + classes
-├── map-proj-v3/                        # Image dataset directory
-├── cnn_architecture.png                # CNN diagram
-├── accuracy.png                        # Training vs test accuracy plot
-├── loss.png                            # Training vs test loss plot
-├── class_accuracy_plot.png             # Per-class accuracy bar chart
-├── training_history.csv                # Saved training metrics
-├── final_model.keras                   # Saved final model
-└── best_model.keras                    # Saved best checkpoint
+└── Deep_learning_midterm_final.ipynb   # Main notebook
+```
+
+> The image dataset and trained model files are not included in this repository due to their size. See the download links below.
+
+---
+
+## 📦 Downloads
+
+| Resource | Link |
+|----------|------|
+| 🛰️ HiRISE Mars Image Dataset (NASA) | [data.nasa.gov](https://data.nasa.gov/dataset/mars-orbital-image-hirise-labeled-data-set-version-3/resource/c93bf426-1eae-4d3b-8afd-548add5e24ce) |
+| 🤖 Saved Models (`final_model.keras`, `best_model.keras`) | *(add your link here — e.g. Google Drive or Hugging Face)* |
+
+After downloading the dataset, place the files in the root directory like this:
+
+```
+├── Deep_learning_midterm_final.ipynb
+├── labels-map-proj-v3.txt
+├── landmarks_map-proj-v3_classmap.csv
+└── map-proj-v3/                        # extracted image folder
 ```
 
 ---
