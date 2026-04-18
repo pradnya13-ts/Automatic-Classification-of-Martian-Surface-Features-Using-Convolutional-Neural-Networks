@@ -57,7 +57,7 @@ Input (128×128×3)
 | Resource | Link |
 |----------|------|
 | 🛰️ HiRISE Mars Image Dataset (NASA) | [data.nasa.gov](https://data.nasa.gov/dataset/mars-orbital-image-hirise-labeled-data-set-version-3/resource/c93bf426-1eae-4d3b-8afd-548add5e24ce) |
-| 🤖 Saved Models (`final_model.keras`, `best_model.keras`) | *(add your link here — e.g. Google Drive or Hugging Face)* |
+| 🤖 Saved Models (`final_model.keras`, `best_model.keras`) | in repo
 
 After downloading the dataset, place the files in the root directory like this:
 
