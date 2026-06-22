@@ -22,7 +22,6 @@
 
 ## 🌕 What Does This Project Do?
 
-<img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="180" align="right"/>
 
 This project trains a **Convolutional Neural Network (CNN)** on NASA's HiRISE Mars satellite imagery to automatically identify surface features — craters, dunes, spider formations, and more.
 
